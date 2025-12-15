@@ -44,7 +44,7 @@ GROUP BY 1
 ORDER BY n DESC
 LIMIT 25;
 
---5B) signup_date_raw
+--5B) signup_date_raw values
 CREATE OR REPLACE VIEW audit.signup_date_raw_inventory AS
 SELECT COALESCE(signup_date_raw, '<NULL>') AS signup_date_raw,
 COUNT(*) AS n
@@ -53,5 +53,11 @@ GROUP BY 1
 ORDER BY n DESC
 LIMIT 25;
 
-
-
+--6) Refund and Status contradictions
+CREATE OR REPLACE VIEW audit.status_refund_inventory AS
+SELECT COALESCE(status, '<NULL>') AS status,
+COALESCE(refund_raw, '<NULL') AS refund_raw,
+COUNT(*) AS n
+FROM raw.transactions
+GROUP BY 1,2
+ORDER BY n DESC;
