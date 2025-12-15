@@ -60,3 +60,39 @@ NOT (REGEXP_REPLACE(TRIM(t.amount_raw), '[^0-9\.\-]', '', 'g') ~ '^-?\d+(\.\d+)?
 AS flag_bad_amount
 
 FROM raw.transactions t;
+
+SELECT
+  SUM((transaction_id_norm IS NULL)::int) AS missing_tx_id,
+  SUM((customer_id_norm IS NULL)::int)    AS missing_customer_id,
+  SUM((currency_clean IS NULL)::int)      AS missing_currency,
+  SUM((amount_clean IS NULL)::int)        AS unparsed_amount,
+  SUM((order_date_clean IS NULL)::int)    AS unparsed_order_date,
+  SUM(flag_bad_amount::int)              AS bad_amount_format,
+  SUM(flag_bad_order_date::int)          AS bad_date_format
+FROM clean.transactions;
+
+CREATE SCHEMA IF NOT EXISTS clean;
+
+DROP VIEW IF EXISTS clean.transactions_dedup;
+
+CREATE VIEW clean.transactions_dedup AS
+WITH scored AS (
+SELECT t.*,
+(
+(CASE WHEN order_date_clean IS NOT NULL THEN 1 ELSE 0 END) +
+(CASE WHEN amount_clean IS NOT NULL THEN 1 ELSE 0 END) +
+(CASE WHEN currency_clean IS NOT NULL THEN 1 ELSE 0 END)) AS quality_score,
+ROW_NUMBER() OVER (
+PARTITION BY transaction_id_norm
+ORDER BY
+((CASE WHEN order_date_clean IS NOT NULL THEN 1 ELSE 0 END) +
+(CASE WHEN amount_clean IS NOT NULL THEN 1 ELSE 0 END) +
+(CASE WHEN currency_clean IS NOT NULL THEN 1 ELSE 0 END)) DESC) AS rn
+FROM clean.transactions t
+WHERE transaction_id_norm IS NOT NULL)
+SELECT * FROM scored WHERE rn = 1;
+
+
+
+
+
