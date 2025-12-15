@@ -1,0 +1,456 @@
+customer_id,full_name,email,phone,country,signup_date_raw,marketing_opt_in,source
+C10000,"Syed, Bilal",,+971-59-083-0166,United Kingdom,,1,ads
+C10001,SANA Malik,sana.malik@company.com,00971 96 030 8246,Pak,,TRUE,unknown
+C10002,Zain Malik ,zain585@gmail.com,N/A,IN,,0,Referral
+C10003,FATIMA Butt,NA,875 749 118,United States,2024-02-15 00:00:00,yes,Partner
+C10004,,khalid80@outlook.com,,PK,"Mar 04, 2022",y ,
+C10005,,nadia.raza@yahoo.com,,United Kingdom,2023-02-30,0,Ads
+C10006,"Farooq, Zain",zain.farooq 18@company.com,00971 46 563 2122,United Kingdom,13/13/2023,,organic
+C10007,Yusuf Raza,yusuf150@company.com,952 890 786,DE,08/02/2023,0,  organic  
+C10008,LAYLA Ali,laylaali@gmail.com,0590109281,UAE,2022/03/14,,partner
+C10009,Ayesha  Sheikh,ayesha.sheikh@gmail.com,,KSA,05/06/2023,,ads
+C10010,Noor  Javed,noor.javed@company.com,,U.A.E,2022/12/04,,Organic
+C10011,,noemail@,500 474 395,India,2024-09-04 00:00:00,N,Organic
+C10012,"Butt, Omar",omar.butt 27@company.com,00971 90 751 1637,Germany,2024-03-19 00:00:00,N,partner
+C10013,,nadiachaudhry@hotmail.com,,India,,,organic
+C10014,,alikhan@yahoo.com,0330434839,KSA,2023-02-30,yes,ads
+C10015,,,N/A,USA,06/26/2022,0,
+C10016,Omar Siddiqui,noemail@,180 334 018,Pak,29/01/2022,0,Referral
+C10017,Huda Javed ,huda525@yahoo.com,N/A,,2023-02-30,N,partner
+C10018,Nadia Iqbal,nadia.iqbal@hotmail.com,,Pakistan,13/13/2023,yes,  organic  
+C10019,,mariam442@yahoo.com,355 150 587,UAE,2023-01-29 00:00:00,,
+C10020,Fatima Javed,fatima.javed@outlook.com,,U.A.E,13/13/2023, n,Referral
+C10021,Sara Sheikh,sara.sheikh..24@gmail.com,N/A,Pakistan,2023-04-10,FALSE,unknown
+C10022,Khalid Sheikh ,khalidsheikh@gmail.com,0240234483,,05/28/2023,TRUE,Referral
+C10023,Ali Sheikh,,,Saudi Arabia,2023/12/06,no,Referral
+C10024,"Syed, Noor",noor.syed@gmail.com,00971 46 201 6849,Saudi Arabia,13/13/2023,yes,organic
+C10025,Yusuf Farooq,NA,+971-30-435-2056,,,y ,Organic
+C10026,Mariam Javed,mariamjaved@yahoo.com,,USA,,1,Referral
+C10027,Rania  Syed,raniasyed@gmail.com,N/A,United Kingdom,2022-03-29,Y,organic
+C10028,"Malik, Hassan",hassan.malik@gmail.com,+971-83-740-7188,U.A.E,13/13/2023,TRUE,Ads
+C10029,,yusuf.butt30@yahoo.com,00971 61 740 9319,IN,"Sep 18, 2022",,
+C10030,"Khan, Ayesha",ayesha.khan@hotmail.com,00971 74 847 7718,Saudi Arabia,13/13/2023,Y,referral
+C10031,Nadia Ahmed ,nadia.ahmed 35@hotmail.com,,U.A.E,14/10/2022, n,Referral
+C10032,"Akhtar, Mariam",mariam.akhtar@yahoo.com,N/A,IN,2022-01-02 00:00:00,FALSE,partner
+C10033,,omar13@outlook.com,0166915640,Pakistan,"Feb 22, 2022",y ,organic
+C10034,"Sheikh, Mariam",mariam524@yahoo.com,,USA,"Oct 22, 2023",0,ads
+C10035,IBRAHIM Syed,ibrahim484@outlook.com,00971 44 634 7861,United States,2022/03/18,,Partner
+C10036,"Butt, Ibrahim",ibrahim.butt 98@yahoo.com,0283312581,United Kingdom,"Jan 13, 2023",,Organic
+C10037,"Aslam, Ali",aliaslam@yahoo.com,,UK,"Apr 05, 2022",no,partner
+C10038,"Farooq, Layla",laylafarooq@gmail.com,679 701 687,United Kingdom,12/03/2024,no,organic
+C10039,,ayesha.javed..90@gmail.com,,KSA,2023-02-30, n,Ads
+C10040,Omar  Ahmed,omar.ahmed..25@outlook.com,,United Kingdom,,no,unknown
+C10041,"Khan, Mariam",mariam.khan@gmail.com,376 143 653,United Arab Emirates,2023-12-14 00:00:00, n,partner
+C10042,HASSAN Chaudhry,,N/A,Saudi Arabia,,0,
+C10043,"Butt, Zain",,00971 60 309 2600,DE,2023-04-06 00:00:00, n,Ads
+C10044,Sara  Qureshi,noemail@,+971-04-655-7210,KSA,2022-03-24 00:00:00,1,Ads
+C10045,"Hussain, Ibrahim",ibrahim.hussain@gmail.com,+971-73-587-3557,Germany,2023-02-30,Y,partner
+C10046,Hera Farooq,herafarooq@gmail.com,0955459045,Saudi Arabia,,y ,Ads
+C10047,Ali Butt,ali.butt..60@outlook.com,00971 67 272 0429,IN,2024-05-31 00:00:00,0,Referral
+C10048,Huda Ahmed ,hudaahmed@hotmail.com,+971-61-078-8526,PK,,N,Organic
+C10049,"Aslam, Omar",omaraslam@hotmail.com,,KSA,"Jan 17, 2023", n,referral
+C10050,NOOR Farooq,noorfarooq@outlook.com,00971 93 516 4388,Pakistan,13/13/2023,Y,Ads
+C10051,ALI Akhtar,ali.akhtar@outlook.com,,United States,,TRUE,  organic  
+C10052,,ali611@hotmail.com,,UK,2024-04-14,FALSE,partner
+C10053,Hassan Qureshi ,hassan.qureshi@yahoo.com,+971-87-161-6828,United States,"Feb 12, 2023",1,referral
+C10054,Fatima Aslam,fatima320@yahoo.com,00971 60 536 6306,Germany,27/04/2022,1,
+C10055,HASSAN Farooq,,0619958225,United States,06/18/2023,N,Ads
+C10056,LAYLA Akhtar,layla.akhtar6@outlook.com,,UK,13/13/2023,yes,
+C10057,"Ali, Noor",noor.ali..21@outlook.com,123 308 051,,"Jul 18, 2023",y ,partner
+C10058,FATIMA Memon,fatima436@yahoo.com,872 009 773,,05/06/2024,0,partner
+C10059,OMAR Ahmed,omar.ahmed@yahoo.com,+971-88-002-1581,U.A.E,2023-02-30,y ,organic
+C10060,Ali Ahmed ,aliahmed@hotmail.com,0742315942,KSA,13/13/2023,yes,referral
+C10061,HAMZA Akhtar,,550 326 245,United States,"Mar 22, 2024",N,unknown
+C10062,"Mirza, Hera",hera.mirza@outlook.com,0865465925,PK,2023/03/29,yes,
+C10063,Hera Raza ,NA,0003249668,United Arab Emirates,13/13/2023,no,
+C10064,Hera Khan,hera3@gmail.com,00971 85 836 9492,India,13/13/2023,yes,organic
+C10065,,ali.butt@hotmail.com,464 008 599,U.A.E,13/13/2023,no,organic
+C10066,Ali Ali,aliali@hotmail.com,00971 20 109 8326,U.A.E,,y ,  organic  
+C10067,KHALID Baloch,khalid521@gmail.com,00971 78 066 7172,Pakistan,2022/09/25,y ,ads
+C10068,,omar.iqbal@outlook.com,00971 86 844 3180,KSA,2024/07/15, n,Organic
+C10069,ZAIN Iqbal,,,Saudi Arabia,2024/03/19,1,
+C10070,Sana Ahmed ,sana.ahmed@gmail.com,00971 11 925 2000,United Arab Emirates,15/12/2023, n,ads
+C10071,Sara  Memon,sara.memon@yahoo.com,133 310 014,Pakistan,16/05/2022,y ,Organic
+C10072,Fatima  Iqbal,fatima434@outlook.com,,UAE,2023-02-30,Y,partner
+C10073,Hamza  Malik,,N/A,United Arab Emirates,2022-01-05 00:00:00,0,Ads
+C10074,"Qureshi, Rania",rania607@company.com,N/A,Pak,16/03/2024,y ,Referral
+C10075,"Malik, Hassan",hassan.malik@yahoo.com,053 446 882,United Kingdom,13/13/2023,yes,unknown
+C10076,,huda35@company.com,00971 27 852 7749,USA,13/13/2023,y ,Organic
+C10077,Hamza  Hussain,hamzahussain@hotmail.com,0359852353,Pakistan,18/06/2022,no,partner
+C10078,Ayesha  Syed,ayesha751@hotmail.com,N/A,Germany,2023/12/12,,  organic  
+C10079,Fatima Farooq,fatima.farooq 78@gmail.com,,Pakistan,2023-02-30,FALSE,referral
+C10080,OMAR Aslam,omaraslam@outlook.com,N/A,UAE,13/13/2023,N,ads
+C10081,YUSUF Siddiqui,NA,,IN,13/13/2023,no,  organic  
+C10082,Zain Chaudhry ,NA,044 660 016,India,"Aug 18, 2023",N,Organic
+C10083,Fatima Chaudhry ,fatima.chaudhry51@hotmail.com,,Germany,"Apr 25, 2023",,  organic  
+C10084,Ayesha  Akhtar,ayesha.akhtar35@outlook.com,627 045 345,,,y ,Ads
+C10085,Hassan  Syed,hassan.syed@company.com,,Saudi Arabia,,N,
+C10086,AYESHA Butt,ayeshabutt@hotmail.com,682 991 843,UK,28/06/2023, n,Partner
+C10087,Omar Siddiqui,omarsiddiqui@yahoo.com,00971 78 077 2737,Pak,2023-09-06,yes,Referral
+C10088,"Memon, Nadia",nadia682@yahoo.com,N/A,Pakistan,13/13/2023,0,organic
+C10089,,hera426@gmail.com,557 883 465,KSA,2023-07-22,TRUE,referral
+C10090,"Akhtar, Hassan",NA,,PK,2024-03-14,1,unknown
+C10091,Layla Siddiqui ,layla.siddiqui@gmail.com,,USA,,y ,Ads
+C10092,,noorali@gmail.com,,KSA,"Jun 02, 2024",yes,partner
+C10093,Hera Iqbal,,+971-79-801-6967,UAE,2023-02-30,,
+C10094,"Akhtar, Ayesha",ayesha.akhtar11@hotmail.com,00971 20 600 1131,,"Jan 19, 2022", n,
+C10095,,mariam763@hotmail.com,+971-14-877-4000,UAE,,N,partner
+C10096,,,,United States,2023-02-30,0,partner
+C10097,Nadia Sheikh ,nadia.sheikh@company.com,00971 95 902 9496,DE,2023-02-30,,Organic
+C10098,,nadia2@yahoo.com,,,,N,unknown
+C10099,"Akhtar, Ibrahim",ibrahim206@company.com,,PK,2023-07-04 00:00:00,N,Organic
+C10100,Layla Memon ,layla919@yahoo.com,0893333124,US,2023-08-01 00:00:00,1,unknown
+C10101,Ayesha Butt,ayesha.butt@outlook.com,,UAE,2022-04-07,no,
+C10102,Rania Memon ,rania.memon 36@gmail.com,799 240 532,PK,2022-01-29,Y,unknown
+C10103,"Farooq, Hassan",hassan.farooq77@gmail.com,145 931 862,United States,2023/01/15, n,Organic
+C10104,Zain  Ali,,00971 04 870 1250,Saudi Arabia,,0,  organic  
+C10105,Omar  Akhtar,omar.akhtar@outlook.com,N/A,United Arab Emirates,2022/06/10,N,
+C10106,"Syed, Hassan",hassan.syed@gmail.com,00971 75 537 1525,United Arab Emirates,13/13/2023,,organic
+C10107,Nadia  Syed,nadiasyed@gmail.com,494 524 715,,04/27/2022,,ads
+C10108,"Siddiqui, Noor",noor856@hotmail.com,00971 56 433 1646,United Arab Emirates,"May 02, 2024",yes,  organic  
+C10109,Ali Farooq ,ali.farooq..18@gmail.com,,United States,05/22/2022,,Organic
+C10110,Zain Hussain ,zain.hussain78@outlook.com,+971-23-293-9430,U.A.E,2023-02-22,,Referral
+C10111,,bilal.raza@yahoo.com,,India,,Y,Referral
+C10112,Hamza Farooq ,hamzafarooq@outlook.com,,Pak,2022-05-18,no,Ads
+C10113,MARIAM Baloch,mariam172@company.com,,United Kingdom,13/13/2023,N,Referral
+C10114,Omar Qureshi,omar.qureshi60@company.com,00971 84 111 6289,United Kingdom,,0,partner
+C10115,,,N/A,IN,2023-02-30,,ads
+C10116,BILAL Javed,bilaljaved@yahoo.com,,UAE,08/19/2022,1,partner
+C10117,Nadia Ali,nadia36@company.com,480 914 180,United Kingdom,2024-08-31,TRUE,Ads
+C10118,,NA,0179827182,Germany,"Aug 15, 2023",TRUE,Organic
+C10119,Sara  Siddiqui,,638 578 497,Saudi Arabia,2022/02/01,FALSE,Organic
+C10120,Noor Javed ,noor.javed@outlook.com,0235857443,United Arab Emirates,2024-03-01,yes,unknown
+C10121,Sara  Baloch,noemail@,00971 75 183 2655,UK,,TRUE,unknown
+C10122,Omar  Akhtar,omarakhtar@yahoo.com,00971 10 689 1769,Germany,"May 20, 2024",,
+C10123,"Chaudhry, Omar",omar710@outlook.com,568 896 507,,11/04/2022,,referral
+C10124,Ayesha Aslam ,ayesha.aslam@outlook.com,0593536000,US,13/13/2023,TRUE,unknown
+C10125,Fatima Siddiqui ,fatima.siddiqui..67@yahoo.com,00971 75 095 7018,Pakistan,2023-02-24 00:00:00,,partner
+C10126,IBRAHIM Memon,ibrahim.memon54@yahoo.com,0799581255,PK,"Apr 25, 2024",,organic
+C10127,,omarraza@company.com,,Pakistan,,y ,  organic  
+C10128,Hera Aslam,,N/A,Pak,"Aug 04, 2023",y ,unknown
+C10129,Hamza Syed ,hamza.syed@hotmail.com,288 101 128,,2023-02-30,Y,  organic  
+C10130,Ali  Memon,ali148@outlook.com,,DE,2022-01-21,no,partner
+C10131,"Ali, Sana",sanaali@hotmail.com,,KSA,13/13/2023,N,Organic
+C10132,LAYLA Memon,layla.memon 52@gmail.com,312 256 204,Pak,07/01/2023,FALSE,unknown
+C10133,"Iqbal, Layla",layla.iqbal16@outlook.com,+971-83-637-4536,KSA,2023-11-12,FALSE,organic
+C10134,Mariam Syed,mariamsyed@company.com,,US,"Aug 02, 2022",0,unknown
+C10135,"Butt, Noor",noor692@company.com,00971 79 583 6983,Pakistan,,N,unknown
+C10136,Yusuf Chaudhry,yusufchaudhry@outlook.com,,India,,TRUE,Organic
+C10137,Sara Raza,sara.raza 17@outlook.com,567 242 055,UAE,13/13/2023,no,partner
+C10138,HASSAN Malik,,060 926 342,United Arab Emirates,"Jul 20, 2023",y ,  organic  
+C10139,ZAIN Memon,NA,,United Arab Emirates,2024/09/24,y ,Ads
+C10140,HERA Iqbal,hera.iqbal@yahoo.com,0693481567,U.A.E,13/13/2023,,ads
+C10141,,nooraslam@gmail.com,+971-84-282-3843,United States,2023-01-02 00:00:00,1,Ads
+C10142,NOOR Raza,noor.raza..91@yahoo.com,,USA,,no,Referral
+C10143,"Siddiqui, Omar",omarsiddiqui@company.com,+971-76-314-0573,United Arab Emirates,"Jul 06, 2024",TRUE,Organic
+C10144,"Raza, Omar",omar986@yahoo.com,795 428 100,,2022-03-27 00:00:00, n,
+C10145,,yusufmalik@company.com,00971 50 514 9431,UAE,2023-02-30,yes,referral
+C10146,,hassan.qureshi@outlook.com,,India,"May 07, 2024",no,ads
+C10147,Hera Malik ,hera.malik..91@gmail.com,00971 37 672 4991,United Kingdom,06/17/2022,0,  organic  
+C10148,Layla Ahmed,laylaahmed@hotmail.com,,United Arab Emirates,2023-02-30,FALSE,Ads
+C10149,,nadiakhan@yahoo.com,,IN,13/13/2023,1,unknown
+C10150,Ayesha Chaudhry ,ayesha635@company.com,,UAE,2024/05/18,no,  organic  
+C10151,NADIA Ahmed,noemail@,00971 58 397 6413,UK,16/07/2023,no,referral
+C10152,Omar Hussain ,omar.hussain 91@hotmail.com,+971-87-389-1899,Germany,27/11/2023,0,organic
+C10153,Hamza Siddiqui ,,0768239712,United Arab Emirates,2023/02/19,Y,Referral
+C10154,,hera609@gmail.com,0261939152,IN,2024-04-03,TRUE,Ads
+C10155,Mariam Mirza ,mariam.mirza..46@gmail.com,,United Kingdom,2022-09-18 00:00:00,no,Partner
+C10156,"Memon, Ali",ali.memon@gmail.com,,KSA,13/13/2023,Y,ads
+C10157,"Syed, Bilal",bilal.syed@gmail.com,N/A,U.A.E,2022-03-19 00:00:00,FALSE,unknown
+C10158,NOOR Raza,noorraza@hotmail.com,0575976550,US,2023-05-11 00:00:00,no,ads
+C10159,Mariam Farooq ,mariamfarooq@outlook.com,,USA,2023-12-17,,Ads
+C10160,,noor586@outlook.com,N/A,Pak,2023-02-30,FALSE,ads
+C10161,"Iqbal, Bilal",bilaliqbal@outlook.com,N/A,Saudi Arabia,08/09/2024,,Ads
+C10162,,NA,139 192 495,India,2023-02-30, n,Ads
+C10163,RANIA Iqbal,rania.iqbal@hotmail.com,0430306739,U.A.E,26/10/2023,no,Organic
+C10164,Hera Syed ,NA,0203480503,IN,2024-06-07,y ,Partner
+C10165,,layla.baloch@yahoo.com,N/A,UAE,2022-01-27 00:00:00,,  organic  
+C10166,"Ali, Bilal",bilal629@hotmail.com,102 328 155,India,,,organic
+C10167,Huda  Memon,huda236@yahoo.com,0048784588,USA,2022-09-16,,Partner
+C10168,OMAR Mirza,omar.mirza@gmail.com,0921088382,India,01/26/2024,yes,organic
+C10169,Hamza  Khan,hamza.khan..32@yahoo.com,+971-35-673-5010,DE,2023-11-22 00:00:00,Y,Organic
+C10170,"Chaudhry, Sana",sanachaudhry@gmail.com,N/A,Germany,"Oct 21, 2023",TRUE,Partner
+C10171,NOOR Memon,noormemon@outlook.com,,,,Y,Organic
+C10172,"Ali, Hassan",hassan187@gmail.com,N/A,United States,2023-02-30,N,partner
+C10173,Bilal  Chaudhry,bilalchaudhry@hotmail.com,,UAE,2022-02-19 00:00:00,N,Ads
+C10174,OMAR Akhtar,omarakhtar@hotmail.com,0828818571,UK,2024/05/23, n,Ads
+C10175,Yusuf Qureshi,yusuf.qureshi@hotmail.com,,,"Jul 12, 2023",,Referral
+C10176,"Sheikh, Khalid",khalid.sheikh 70@yahoo.com,0266620398,DE,2022/09/04,y ,Ads
+C10177,Sara Baloch,sara.baloch..7@company.com,,IN,,1,Organic
+C10178,,layla66@company.com,,US,,no,organic
+C10179,Sara  Javed,sarajaved@outlook.com,N/A,Germany,2023-02-30,yes,referral
+C10180,Layla  Malik,NA,,United States,,yes,ads
+C10181,"Mirza, Ayesha",NA,0856408309,United Arab Emirates,08/28/2023,TRUE,unknown
+C10182,Yusuf  Iqbal,yusuf.iqbal@company.com,,,2023-01-20 00:00:00,Y,referral
+C10183,,khalidaslam@yahoo.com,N/A,PK,13/13/2023,1,partner
+C10184,"Aslam, Hamza",hamza.aslam@gmail.com,997 766 721,DE,05/19/2023,,ads
+C10185,"Hussain, Mariam",mariam555@company.com,+971-56-711-3190,,2022/04/01,,Partner
+C10186,,noemail@,+971-92-602-5538,United States,"Jul 06, 2023",,referral
+C10187,"Iqbal, Sara",noemail@,0860443668,Saudi Arabia,07/26/2022,Y,Organic
+C10188,"Mirza, Ibrahim",,+971-55-378-0508,Germany,,FALSE,ads
+C10189,"Butt, Yusuf",yusufbutt@company.com,N/A,Pakistan,02/20/2022,N,
+C10190,Rania Qureshi,raniaqureshi@yahoo.com,343 822 381,Pakistan,26/07/2022,Y,partner
+C10191,,mariam.sheikh 88@hotmail.com,,Pak,01/07/2024,TRUE,referral
+C10192,BILAL Siddiqui,bilal.siddiqui..30@gmail.com,00971 56 243 8137,United States,2023-03-17 00:00:00,y ,partner
+C10193,Omar  Ali,,N/A,Saudi Arabia,,,Ads
+C10194,"Syed, Noor",noor278@gmail.com,00971 99 105 3240,IN,13/13/2023,0,Organic
+C10195,BILAL Mirza,noemail@,+971-18-129-6700,U.A.E,17/08/2023,1,  organic  
+C10196,Ayesha Aslam ,ayesha858@hotmail.com,+971-52-150-7424,Pakistan,2024/06/19,N,organic
+C10197,Rania Sheikh ,rania.sheikh42@hotmail.com,298 084 534,Pak,07/28/2022,no,unknown
+C10198,Hamza Butt,hamza.butt7@company.com,,U.A.E,"Apr 23, 2022",,Ads
+C10199,SARA Memon,,N/A,Saudi Arabia,17/12/2022,0,
+C10200,Zain  Khan,zain.khan@gmail.com,00971 32 822 5233,IN,27/12/2023,Y,Partner
+C10201,Hera Akhtar ,,,,"May 19, 2022", n,referral
+C10202,,hera.farooq56@company.com,,,2023/07/30,0,
+C10203,,hera803@yahoo.com,613 596 404,UAE,31/08/2024,0,partner
+C10204,Khalid  Baloch,,0156790451,United States,13/13/2023,1,  organic  
+C10205,Ibrahim Butt,ibrahim.butt@yahoo.com,N/A,DE,13/13/2023,FALSE,unknown
+C10206,HUDA Hussain,huda.hussain@hotmail.com,,DE,"May 19, 2022",y ,partner
+C10207,Sara Javed ,sara340@outlook.com,N/A,Pakistan,2023-02-30,0,referral
+C10208,,hamza.syed@outlook.com,+971-72-042-3998,DE,,y ,referral
+C10209,Mariam Raza ,mariam.raza 71@gmail.com,N/A,Pak,12/22/2022,no,unknown
+C10210,Hera  Qureshi,hera757@gmail.com,,IN,13/13/2023,1,Ads
+C10211,"Mirza, Yusuf",yusuf328@gmail.com,0397862502,Pak,,y ,partner
+C10212,"Sheikh, Sara",NA,,India,2022/09/29,N,unknown
+C10213,,omar.baloch@outlook.com,N/A,IN,12/25/2022, n,organic
+C10214,"Javed, Ibrahim",ibrahimjaved@outlook.com,161 809 396,UK,"Aug 11, 2023",y ,organic
+C10215,,ayesha.butt@outlook.com,,U.A.E,,no,Organic
+C10216,Fatima  Malik,fatima693@gmail.com,0811530727,U.A.E,13/13/2023,,unknown
+C10217,Huda Ali,huda.ali 15@hotmail.com,0455893383,US,2023-07-04,no,organic
+C10218,Ali  Javed,ali435@gmail.com,N/A,India,,FALSE,  organic  
+C10219,,yusuf.ahmed..18@yahoo.com,0973593162,UK,,Y,Partner
+C10220,Noor  Hussain,noor207@gmail.com,,India,10/05/2023,,  organic  
+C10221,Bilal  Mirza,bilalmirza@outlook.com,607 151 257,PK,2024-07-22 00:00:00,FALSE,Partner
+C10222,Ayesha Malik ,ayesha.malik 66@hotmail.com,N/A,Germany,05/18/2022,Y,Ads
+C10223,Noor Memon ,noor.memon@yahoo.com,039 815 598,,2024/02/27,Y,Organic
+C10224,"Mirza, Noor",,N/A,,2023-02-30,y ,  organic  
+C10225,,mariamakhtar@gmail.com,N/A,United Kingdom,2023-10-12,no,Ads
+C10226,Noor Khan,noorkhan@hotmail.com,089 640 270,Pakistan,17/02/2024,yes,organic
+C10227,Hamza Qureshi ,noemail@,,Pak,2022-03-21,y ,unknown
+C10228,"Raza, Huda",,,PK,,FALSE,  organic  
+C10229,,omar245@outlook.com,+971-44-427-9953,PK,2022-03-18,N,  organic  
+C10230,Huda Hussain ,,0100026029,,09/19/2022,TRUE,referral
+C10231,Hassan  Khan,hassan.khan21@hotmail.com,0795430680,United Kingdom,2023-07-12 00:00:00,FALSE,ads
+C10232,Mariam Iqbal,mariam.iqbal@outlook.com,,United Arab Emirates,,no,partner
+C10233,,hamza.ahmed@outlook.com,00971 61 297 9246,IN,2022-09-21,N,Organic
+C10234,,yusufbaloch@gmail.com,+971-91-641-1180,India,03/18/2022,,Ads
+C10235,,rania.javed 99@hotmail.com,0144662717,IN,2024/05/02,Y,partner
+C10236,MARIAM Malik,mariam823@outlook.com,00971 90 311 2944,United Arab Emirates,13/13/2023,N,ads
+C10237,,laylasheikh@gmail.com,00971 14 042 5582,India,"Mar 17, 2024",FALSE,Referral
+C10238,,zain115@yahoo.com,N/A,UAE,21/02/2022,y ,partner
+C10239,Hassan  Butt,hassan.butt 57@gmail.com,00971 17 871 6177,United Kingdom,13/13/2023,Y,Ads
+C10240,Noor  Ahmed,noorahmed@outlook.com,N/A,DE,2022-04-23,1,unknown
+C10241,Hera Butt ,herabutt@gmail.com,+971-17-477-2175,UK,2022-10-15 00:00:00,N,Ads
+C10242,Rania  Akhtar,,708 379 252,IN,2024-01-29,FALSE,  organic  
+C10243,Zain Butt,zain.butt@yahoo.com,00971 30 472 3459,PK,2023-02-16,y ,organic
+C10244,"Mirza, Ali",ali239@company.com,0739337347,United Kingdom,2024-09-25 00:00:00,Y,partner
+C10245,"Iqbal, Zain",NA,,Pak,2023-02-30,yes,referral
+C10246,Mariam Siddiqui,mariamsiddiqui@company.com,,,2023-02-30,TRUE,
+C10247,,mariam.syed@gmail.com,+971-61-041-4226,U.A.E,"Jan 21, 2023",y ,  organic  
+C10248,Hamza Memon,NA,00971 88 361 9496,KSA,2023/10/21,1,Referral
+C10249,,hamza.sheikh@company.com,0735077527,United Kingdom,17/03/2023,no,unknown
+C10250,KHALID Chaudhry,khalid922@outlook.com,,USA,2023-02-30,,partner
+C10251,Sara Akhtar ,NA,+971-56-527-0265,Saudi Arabia,,y ,Organic
+C10252,MARIAM Memon,mariam379@hotmail.com,197 903 098,Pak,2022-10-06,N,ads
+C10253,,zainahmed@hotmail.com,430 011 132,IN,,FALSE,Referral
+C10254,,fatima.aslam@gmail.com,N/A,IN,,0,organic
+C10255,Noor Baloch ,noorbaloch@yahoo.com,,USA,13/13/2023,0,Organic
+C10256,,hudaahmed@gmail.com,,Pak,2022-12-06,Y,Organic
+C10257,Ali Butt ,ali.butt82@company.com,323 442 203,IN,"Apr 26, 2024",1,Referral
+C10258,Hamza Raza,hamza.raza@outlook.com,00971 05 832 2370,IN,, n,unknown
+C10259,Hassan Akhtar ,hassan.akhtar@company.com,N/A,,2023-02-30, n,Referral
+C10260,,ibrahim.farooq@gmail.com,,United Arab Emirates,04/11/2022,y ,Referral
+C10261,Khalid Javed,khalid.javed@gmail.com,,Germany,2022/06/23,yes,partner
+C10262,Khalid  Iqbal,,146 732 947,UK,01/22/2024, n,Organic
+C10263,Rania Malik ,rania347@company.com,+971-72-955-2536,UAE,2024/06/02,,Referral
+C10264,Ali Sheikh ,alisheikh@outlook.com,+971-45-459-5664,United Kingdom,2023-02-30,y ,
+C10265,,mariam176@company.com,0566423850,United States,2024-05-18 00:00:00,yes,  organic  
+C10266,Ibrahim Ali ,ibrahim.ali 61@hotmail.com,00971 55 311 1500,India,,N,Partner
+C10267,"Hussain, Hera",hera.hussain 40@yahoo.com,,US,,N,Partner
+C10268,Nadia Aslam,nadiaaslam@hotmail.com,585 190 799,UAE,01/05/2024,1,Ads
+C10269,Zain  Javed,zain841@gmail.com,390 356 261,UK,"Dec 02, 2022",FALSE,unknown
+C10270,Zain Akhtar ,zainakhtar@company.com,+971-68-220-8195,United Arab Emirates,,Y,unknown
+C10271,"Javed, Noor",noorjaved@hotmail.com,00971 27 062 9494,Germany,,y ,Partner
+C10272,Hera Ahmed,heraahmed@hotmail.com,,Pakistan,13/13/2023, n,
+C10273,"Sheikh, Noor",noor.sheikh..7@gmail.com,,UK,2023-07-11 00:00:00,1,Organic
+C10274,NOOR Butt,noemail@,0442371239,Pakistan,"Jun 01, 2023",yes,partner
+C10275,Rania Farooq ,rania.farooq 36@company.com,0379828231,DE,17/09/2024,1,Ads
+C10276,Hassan  Aslam,hassan.aslam..89@hotmail.com,798 007 586,Saudi Arabia,,y ,  organic  
+C10277,,ali375@company.com,+971-93-528-8624,USA,2024-07-08,,Referral
+C10278,"Farooq, Rania",rania.farooq@outlook.com,,US,"Mar 15, 2024",Y,Referral
+C10279,Layla  Ahmed,layla.ahmed@outlook.com,+971-54-726-0133,USA,"May 31, 2022",no,Organic
+C10280,Hera  Aslam,hera.aslam@hotmail.com,881 263 076,PK,10/07/2023,,organic
+C10281,Fatima Ali,fatima.ali@gmail.com,0521721239,UK,05/01/2023,1,Referral
+C10282,Layla  Aslam,layla.aslam@hotmail.com,N/A,,,Y,Partner
+C10283,Nadia Khan ,nadia.khan 85@company.com,,UAE,,Y,Referral
+C10284,Khalid Hussain ,khalid.hussain..85@outlook.com,N/A,UAE,2023-08-17 00:00:00,FALSE,  organic  
+C10285,Ibrahim Sheikh ,noemail@,0417026196,US,2023-02-30, n,ads
+C10286,SARA Memon,sara.memon@company.com,N/A,Saudi Arabia,08/08/2022,y ,referral
+C10287,YUSUF Mirza,noemail@,N/A,Saudi Arabia,,,organic
+C10288,HASSAN Chaudhry,hassan.chaudhry..5@yahoo.com,,Saudi Arabia,,yes,organic
+C10289,Omar Qureshi ,omarqureshi@hotmail.com,N/A,PK,2023-02-30,,
+C10290,Nadia Hussain,nadia.hussain@yahoo.com,,IN,02/19/2023,yes,Partner
+C10291,Rania  Akhtar,noemail@,952 515 612,US,2022-10-17 00:00:00,1,
+C10292,Ibrahim  Qureshi,ibrahimqureshi@yahoo.com,N/A,United States,2023/01/04,,Organic
+C10293,,fatima.raza@yahoo.com,,Pakistan,"Dec 02, 2023",N,Organic
+C10294,Sana  Khan,sana51@outlook.com,,UK,2022/07/03,N,Organic
+C10295,Omar Sheikh ,omar902@yahoo.com,601 961 482,India,2024-06-10,Y,ads
+C10296,Khalid Baloch ,khalid670@outlook.com,00971 82 554 8222,USA,,N,organic
+C10297,Fatima Javed ,fatima.javed72@yahoo.com,00971 78 003 6230,India,05/09/2022,0,
+C10298,Layla  Aslam,layla.aslam@yahoo.com,N/A,IN,12/02/2024,FALSE,  organic  
+C10299,Sara  Aslam,saraaslam@hotmail.com,+971-24-651-8629,,05/06/2022,y ,ads
+C10300,Fatima Javed,,00971 86 233 6471,,2022/01/04,y ,partner
+C10301,"Hussain, Omar",omar90@outlook.com,+971-53-453-0666,USA,28/03/2022,Y,unknown
+C10302,,noor.sheikh 65@outlook.com,00971 31 797 4197,USA,13/13/2023,1,organic
+C10303,Ali Qureshi ,ali.qureshi@gmail.com,530 394 525,KSA,13/13/2023,0,organic
+C10304,Ali Syed,alisyed@hotmail.com,N/A,India,"Mar 28, 2022",,Referral
+C10305,"Memon, Ibrahim",,,US,,TRUE,  organic  
+C10306,Hamza Syed ,,00971 08 441 7587,U.A.E,2023-02-30,,referral
+C10307,,fatima33@hotmail.com,N/A,Germany,"Nov 02, 2023",y ,Referral
+C10308,Ali Sheikh ,ali.sheikh 47@gmail.com,,United States,15/05/2023,FALSE,Organic
+C10309,Yusuf Akhtar,yusuf.akhtar44@yahoo.com,+971-46-252-2254,United Kingdom,2022-12-06,yes,ads
+C10310,KHALID Aslam,khalid.aslam@gmail.com,00971 47 869 4066,DE,2024-03-11, n,Referral
+C10311,Omar  Iqbal,,,United Kingdom,13/13/2023,,
+C10312,Bilal Malik,,+971-87-133-7465,United Kingdom,2022-04-29 00:00:00,1,Organic
+C10313,Khalid  Butt,khalid.butt@company.com,844 777 006,United Kingdom,,yes,
+C10314,"Siddiqui, Rania",rania.siddiqui34@gmail.com,+971-47-301-1125,Germany,,0,referral
+C10315,Hassan  Javed,noemail@,,Pak,"Jul 31, 2023",TRUE,Ads
+C10316,Huda Mirza,huda375@hotmail.com,+971-51-526-0536,United States,2023/11/10,y ,unknown
+C10317,"Mirza, Nadia",nadia.mirza23@hotmail.com,,,2024/03/31,,organic
+C10318,,,,Pakistan,"May 18, 2022",TRUE,referral
+C10319,Noor Siddiqui ,noor.siddiqui..29@outlook.com,+971-92-577-8201,United Arab Emirates,, n,organic
+C10320,YUSUF Ahmed,yusuf.ahmed@company.com,,IN,2023-09-10,yes,Referral
+C10321,Hassan Ahmed,hassan.ahmed@gmail.com,,UAE,2024-04-10, n,referral
+C10322,Mariam Raza,mariam.raza..71@company.com,0926876733,KSA,,no,organic
+C10323,Fatima Chaudhry,fatima.chaudhry28@outlook.com,00971 78 587 0956,United States,13/13/2023, n,  organic  
+C10324,Layla Qureshi ,laylaqureshi@yahoo.com,0833359144,Pakistan,"May 09, 2023",1,
+C10325,Sana  Hussain,sana448@hotmail.com,N/A,,2023-02-30,no,Ads
+C10326,AYESHA Aslam,ayeshaaslam@yahoo.com,,Pak,13/13/2023,y ,unknown
+C10327,Rania Malik,rania.malik@company.com,,India,16/01/2023,0,Ads
+C10328,ZAIN Raza,zain.raza@gmail.com,0903331441,,"Jul 06, 2022",Y,referral
+C10329,Nadia  Butt,nadia.butt@hotmail.com,0015177033,United Arab Emirates,2023-02-30,1,  organic  
+C10330,IBRAHIM Chaudhry,noemail@,,United Arab Emirates,2023/07/28,0,
+C10331,Mariam Siddiqui ,mariam886@yahoo.com,004 723 724,UK,2023-02-30,y ,ads
+C10332,"Khan, Fatima",,N/A,Pak,12/06/2023,N,Ads
+C10333,Sara Raza,sararaza@company.com,686 118 747,DE,2023-02-30,no,partner
+C10334,"Iqbal, Noor",noor.iqbal..49@company.com,841 907 432,DE,,TRUE,Referral
+C10335,Ayesha Baloch ,ayesha176@hotmail.com,,,29/12/2023,N,Ads
+C10336,Layla Raza ,layla734@hotmail.com,,UK,,N,organic
+C10337,"Aslam, Fatima",fatima258@gmail.com,918 649 011,PK,2023/08/09,,referral
+C10338,RANIA Raza,rania589@yahoo.com,954 848 118,IN,2022-08-23 00:00:00,N,Referral
+C10339,Hamza  Javed,hamzajaved@yahoo.com,N/A,UK,,y ,organic
+C10340,Ibrahim Khan,ibrahim264@outlook.com,936 721 412,U.A.E,2023-02-30,Y,Organic
+C10341,,NA,N/A,IN,13/13/2023,Y,Ads
+C10342,,mariam572@yahoo.com,+971-75-495-2822,USA,,,Organic
+C10343,Rania Iqbal,,00971 54 414 3606,DE,2023-04-23,0,  organic  
+C10344,Layla Khan,layla984@hotmail.com,091 769 813,Saudi Arabia,2022-08-07,FALSE,
+C10345,Hera Malik ,noemail@,00971 82 628 7456,UK,,y ,  organic  
+C10346,"Baloch, Bilal",NA,,KSA,2023-02-30,,Partner
+C10347,"Farooq, Nadia",nadia.farooq@company.com,00971 21 323 2375,IN,13/13/2023,0,ads
+C10348,ZAIN Ali,zain.ali9@gmail.com,,Germany,2022-09-01 00:00:00,TRUE,  organic  
+C10349,"Aslam, Rania",rania.aslam@outlook.com,N/A,United Arab Emirates,2023-02-30,0,Partner
+C10350,Hassan Malik ,hassan.malik@yahoo.com,469 178 861,Pakistan,19/02/2023,0,partner
+C10351,Hamza Baloch,hamza.baloch..77@outlook.com,,,23/01/2023,TRUE,  organic  
+C10352,Huda Baloch,hudabaloch@company.com,,,,Y,referral
+C10353,Ali  Syed,alisyed@gmail.com,,USA,04/09/2024,no,Partner
+C10354,Hamza  Chaudhry,NA,508 470 120,Pak,29/11/2023,FALSE,Referral
+C10355,"Syed, Sara",sara.syed@company.com,00971 17 827 1324,UAE,"Feb 25, 2022",N,organic
+C10356,Nadia  Javed,nadia854@yahoo.com,,India,06/29/2024,no,ads
+C10357,Omar  Hussain,omar785@gmail.com,00971 47 827 1156,United States,01/08/2022,Y,Ads
+C10358,LAYLA Ahmed,layla.ahmed@yahoo.com,,India,13/13/2023,,Referral
+C10359,Ayesha Chaudhry,ayesha300@gmail.com,,PK,19/08/2024,0,Ads
+C10360,"Farooq, Sana",sana.farooq 34@gmail.com,N/A,IN,21/01/2023,,  organic  
+C10361,,,00971 45 774 9799,United States,"Aug 01, 2024",y ,unknown
+C10362,,noemail@,,United Kingdom,2023-02-30,no,partner
+C10363,,hassan.memon..59@outlook.com,N/A,Germany,2023-11-09 00:00:00,,partner
+C10364,,zain.butt..70@outlook.com,00971 46 577 0798,United Arab Emirates,04/12/2024,Y,Referral
+C10365,FATIMA Ahmed,fatima.ahmed 39@company.com,00971 68 101 2316,U.A.E,"Apr 19, 2024",FALSE,Ads
+C10366,Ayesha  Siddiqui,ayesha.siddiqui@gmail.com,0175064573,United States,04/24/2023,yes,Partner
+C10367,Hassan Syed ,,345 483 185,United Kingdom,2023-09-27 00:00:00,Y,ads
+C10368,,nadia.aslam 39@hotmail.com,N/A,DE,2022-03-26,,ads
+C10369,,sana398@yahoo.com,0368937073,,2024-03-07, n,referral
+C10370,,,+971-48-792-3465,Pakistan,2022-10-31 00:00:00, n,Organic
+C10371,SANA Syed,sana.syed@outlook.com,0921448647,Pak,"Dec 18, 2022",y ,ads
+C10372,MARIAM Iqbal,mariam329@outlook.com,+971-04-408-4235,India,17/12/2022,,organic
+C10373,Khalid Sheikh,khalid593@outlook.com,880 569 482,,12/04/2022,no,referral
+C10374,HUDA Malik,huda.malik@hotmail.com,00971 83 287 5750,United Kingdom,,0,Organic
+C10375,Hera Iqbal,hera.iqbal@yahoo.com,00971 28 821 8926,Saudi Arabia,,FALSE,Partner
+C10376,Sara  Akhtar,sara805@gmail.com,,Pakistan,12/12/2022,N,Organic
+C10377,Ibrahim  Iqbal,ibrahim.iqbal@company.com,N/A,UAE,13/13/2023,yes,Ads
+C10378,,noor.mirza@gmail.com,,KSA,2022-10-09,1,
+C10379,Yusuf Javed,yusufjaved@hotmail.com,+971-32-094-2765,Germany,2023-03-06,,Ads
+C10380,,raniamemon@yahoo.com,0722862864,PK,02/09/2022,0,  organic  
+C10381,Hassan Memon,,+971-83-201-5353,United Arab Emirates,03/05/2023,Y,Ads
+C10382,,rania.akhtar..28@outlook.com,,UK,2024-04-03 00:00:00,N,Organic
+C10383,Nadia Malik,nadia742@company.com,,Germany,2023-08-10,yes,Referral
+C10384,Khalid Aslam,NA,862 645 491,UAE,28/11/2022,1,Partner
+C10385,Nadia Qureshi ,nadiaqureshi@company.com,020 475 033,KSA,13/13/2023,0,partner
+C10386,OMAR Butt,omar818@company.com,N/A,USA,,Y,partner
+C10387,Khalid Butt ,khalid.butt@company.com,N/A,United States,,FALSE,Ads
+C10388,Bilal Baloch,,N/A,Saudi Arabia,,yes,unknown
+C10389,Yusuf Sheikh ,yusufsheikh@outlook.com,00971 47 392 9372,IN,2023-02-30,TRUE,partner
+C10390,RANIA Chaudhry,rania.chaudhry 7@outlook.com,,,,,Organic
+C10391,,NA,,,,no,referral
+C10392,,,N/A,Germany,2022/07/17,0,unknown
+C10393,Bilal Farooq,bilal.farooq@yahoo.com,0584139544,PK,2022-08-28,N,
+C10394,Layla Mirza ,layla192@outlook.com,00971 32 884 2918,UAE,2022-09-05 00:00:00,,unknown
+C10395,Rania Syed ,noemail@,+971-20-510-5209,United States,"May 12, 2022",TRUE,Ads
+C10396,"Qureshi, Hamza",hamza665@outlook.com,227 276 224,USA,2023-07-19 00:00:00,,Organic
+C10397,Layla Mirza,layla.mirza 78@gmail.com,0889194912,IN,2023-02-30,Y,unknown
+C10398,OMAR Malik,omar723@gmail.com,,United Arab Emirates,"Dec 14, 2022",FALSE,unknown
+C10399,Omar Iqbal,noemail@,N/A,Saudi Arabia,06/10/2023, n,Organic
+C10400,Khalid Ali,,,UAE,2024/08/11,Y,Organic
+C10401,ALI Butt,alibutt@hotmail.com,,,2024-08-04,FALSE,partner
+C10402,"Baloch, Ayesha",NA,0078820576,US,13/13/2023,Y,Ads
+C10403,Rania Ahmed,raniaahmed@outlook.com,,Pak,13/13/2023, n,Organic
+C10404,"Ahmed, Khalid",khalidahmed@company.com,0633333506,Saudi Arabia,2022-02-27,,partner
+C10405,"Siddiqui, Fatima",,0777460179,United States,,Y,Partner
+C10406,Zain  Butt,,0509556915,IN,"Apr 15, 2024",yes,organic
+C10407,Ali Memon,ali473@hotmail.com,0810536845,Pak,27/01/2022,,referral
+C10408,Ibrahim Mirza,ibrahim.mirza..91@company.com,+971-40-560-4405,US,2022/03/02,,unknown
+C10409,Nadia Malik ,NA,N/A,KSA,,FALSE,Partner
+C10410,Yusuf Aslam ,yusuf.aslam@gmail.com,889 027 526,US,2023-02-30,no,ads
+C10411,SARA Siddiqui,,00971 00 955 0064,United Kingdom,26/08/2023,0,Organic
+C10412,Sara Butt,sara.butt13@company.com,0156572672,DE,13/13/2023,yes,unknown
+C10413,"Malik, Omar",omar.malik@hotmail.com,,Germany,05/24/2023,0,referral
+C10414,Ibrahim Malik ,ibrahim919@outlook.com,,USA,2022/07/28,FALSE,Referral
+C10415,Sara  Ahmed,sara.ahmed 24@yahoo.com,,USA,2022-07-27 00:00:00,1,Referral
+C10416,,noor635@hotmail.com,,Pakistan,2023-02-30,,partner
+C10417,Nadia Mirza,noemail@,290 275 948,UAE,2022-10-22 00:00:00,FALSE,ads
+C10418,"Ahmed, Sara",sara.ahmed68@gmail.com,00971 71 140 6188,DE,2024/05/27,N,  organic  
+C10419,Bilal Baloch,,801 233 255,United Arab Emirates,2023-02-30,y ,organic
+C10271,"Javed, Noor",noorjaved@hotmail.com,00971 27 062 9494,Germany,,y ,Partner
+,Layla Memon,layla.memon 52@gmail.com,312 256 204,Pak,07/01/2023,FALSE,unknown
+C10307,,fatima33@hotmail.com,N/A,Germany,"Nov 02, 2023",y ,Referral
+C10030,"Khan, Ayesha",ayesha.khan@hotmail.com,00971 74 847 7718,Saudi Arabia,13/13/2023,Y,referral
+C10384,Khalid Aslam,NA,862 645 491,UAE,28/11/2022,1,Partner
+,"Farooq, Rania",rania.farooq@outlook.com,,US,"Mar 15, 2024",Y,Referral
+C10269,Zain  Javed,zain841@gmail.com,390 356 261,UK,"Dec 02, 2022",FALSE,unknown
+C10056,Layla Akhtar,layla.akhtar6@outlook.com,+971-11-481-7019,UK,13/13/2023,yes,
+,Omar Aslam,omaraslam@outlook.com,0983996634,UAE,13/13/2023,N,ads
+,Sara Javed,sara340@outlook.com,N/A,Pakistan,2023-02-30,0,referral
+C10378,,noor.mirza@gmail.com,0487043837,KSA,2022-10-09,1,
+C10371,Sana Syed,sana.syed@outlook.com,0921448647,Pak,"Dec 18, 2022",y ,ads
+C10163,Rania Iqbal,rania.iqbal@hotmail.com,0430306739,U.A.E,26/10/2023,no,Organic
+C10382,,rania.akhtar.28@outlook.com,,UK,2024-04-03 00:00:00,N,Organic
+,Layla Mirza,layla192@outlook.com,00971 32 884 2918,UAE,2022-09-05 00:00:00,,unknown
+C10060,Ali Ahmed,aliahmed@hotmail.com,0742315942,KSA,13/13/2023,yes,referral
+C10296,Khalid Baloch,khalid670@outlook.com,00971 82 554 8222,USA,,N,organic
+C10417,Nadia Mirza,noemail@,N/A,UAE,2022-10-22 00:00:00,FALSE,ads
+C10292,Ibrahim  Qureshi,ibrahimqureshi@yahoo.com,N/A,United States,2023/01/04,,Organic
+,,hera426@gmail.com,557 883 465,KSA,2023-07-22,TRUE,referral
+C10303,Ali Qureshi,ali.qureshi@gmail.com,530 394 525,KSA,13/13/2023,0,organic
+,"Mirza, Ali",ali239@company.com,0739337347,United Kingdom,2024-09-25 00:00:00,Y,partner
+C10245,"Iqbal, Zain",NA,+971-77-372-1878,Pak,2023-02-30,yes,referral
+C10239,Hassan  Butt,hassan.butt 57@gmail.com,00971 17 871 6177,United Kingdom,13/13/2023,Y,Ads
+C10002,Zain Malik,zain585@gmail.com,N/A,IN,,0,Referral
+C10223,Noor Memon,noor.memon@yahoo.com,039 815 598,,2024/02/27,Y,Organic
+C10145,,yusufmalik@company.com,,UAE,2023-02-30,yes,referral
+C10399,Omar Iqbal,noemail@,N/A,Saudi Arabia,06/10/2023, n,Organic
+C10254,,fatima.aslam@gmail.com,N/A,IN,,0,organic
+C10255,Noor Baloch,noorbaloch@yahoo.com,N/A,USA,13/13/2023,0,Organic
+C10386,Omar Butt,omar818@company.com,00971 42 283 7823,USA,,Y,partner
+,Mariam Farooq,mariamfarooq@outlook.com,,USA,2023-12-17,,Ads
+,Mariam Raza,mariam.raza.71@company.com,0926876733,KSA,,no,organic
+C10373,Khalid Sheikh,khalid593@outlook.com,539 685 569,,12/04/2022,no,referral
+C10138,Hassan Malik,,060 926 342,United Arab Emirates,"Jul 20, 2023",y ,  organic  
