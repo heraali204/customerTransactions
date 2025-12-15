@@ -75,5 +75,7 @@ These checks live in 04_sanity_checks.sql.
 - Final datasets are safe for downstream analytics (e.g. revenue trends, DAU/MAU)
 
 ## Tools Used
-	•	PostgreSQL
-	•	SQL (CTEs, window functions, regex, defensive casting)
+- PostgreSQL
+- AWS RDS as Infrastructure
+- pgAdmin
+- SQL (CTEs, window functions, regex, defensive casting)
