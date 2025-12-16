@@ -1,4 +1,4 @@
-# 🧹 Messy Business Transactions — Data Cleaning with SQL (PostgreSQL)
+# 🧹 Messy Business Transactions & Data Cleaning with SQL (PostgreSQL)
 
 ## Overview
 This project demonstrates how to audit, clean, and prepare highly messy transactional data for reliable analysis using PostgreSQL.
