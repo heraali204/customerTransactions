@@ -46,13 +46,13 @@ Cleaning decisions were made based on audit results, following these principles:
 
 ### 4️⃣ Clean Layer (clean schema)
 
-clean.transactions
+##### clean.transactions
 A cleaned table that:
 - normalizes IDs, currency, status, and refund fields
 - parses dates and amounts using defensive logic
 - flags malformed values instead of deleting rows
 
-clean.transactions_dedup
+##### clean.transactions_dedup
 A deduplicated version of transactions:
 - keeps exactly one row per transaction ID
 - selects the “best” row using a quality score (parsed date, amount, currency)
